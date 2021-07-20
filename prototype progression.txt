@@ -1,0 +1,35 @@
+ELEVATOR PITCH FOR FUN:
+
+as entropy rises the cosmos despairs -- the teardrops of the universe fall and trace a path through the universe -- these teardrops became known to early humanity as startographers -- early markings of celestial patterns carved in the sky by the weeping of the cosmos were observed by humanity to contain patterns & were used for directions before modern navigation
+
+Comets (Teardrops) plummet to Earth and contaminate the area with the Blood of the Fallen Startographer; this Blood is used as sacrament offering to form a pact with the Weeping Universe. The player collects Blood from the Earth after the tearfall, where they will take it to a crafting bench to craft it into the Algoselpida. This offering will enrage the Weeping Universe and infect the user with Cosmic Madness.
+
+The player must the keep a regular Iron Sword equipped in their main hand after offering the Algoselpida. The Cosmic Madness will run its course over 12 seconds, draining the user of all their hearts. The only way to survive this is to craft Antilacrima by combining Blood of the Fallen Startographer with Sorrow, which is found by killing mobs in the Nether.
+
+If the player meets all the requirements to survive, they will be struck with lightning, causing normal damange, and the Cosmic Madness will pass through the player, out into the Iron Sword, the sword becoming a host for [INTERESTING NAME FOR ENCHANTMENT THAT WILL GO ON SWORD ALLOWING PLAYER TO SLICE OPEN DIMENSIONAL DOORS].
+
+----------------------------------------------------------------------------------
+
+TO START:
+
+Every now and then there's a chance for a comet object to be created in the sky, then sent crashing downward toward the world.
+
+When the collision happens, a single ore block will spawn at and replace the prior block at the collision point. Mining this ore yields a single Blood of the Fallen Startographer.
+
+After collecting four of these, the player will be able to craft them into the Algoselpida. The player can then bring the Algoselpida to a point that is a least y >= 100, and right click while it is in the player's main hand. The Algoselpida will then float up into the sky and disappear. Moments later, rain begins to pour, and the player is struck by lightning. This signifies that the player is now infected with Cosmic Madness.
+
+Cosmic Madness will wait for 12 seconds, and then cause damage equal to the player's current health no matter what items the player has equipped, instantly killing them. This is circumvented by creating & consuming Antilacrima.
+
+Antilacrima is created by Crafting 4 sorrows with 1 Blood of the Fallen Startographer. To obtain Sorrow, the player must go to the nether, and slay mobs. Every mob in the Nether has a 2% chance to drop 1 Sorrow.
+
+Once the Antilacrima is crafted, the player can drink it to gain immunity to the killing blow at the end of Cosmic Madness.
+
+If the player has an iron sword equipped in their main hand after tossing the offering into the sky, the sword will be enchanted.
+If the player does not have an iron sword equipped in their main hand, the player will be repeatedly struck with lightning until they die.
+
+As a consequence of the Pact, all animals within the chunk the player is standing in die. This happens regardless of a successful Cosmic Madness trial.
+
+The enchantment will replace the right-click functionality of the sword. Now, upon right-clicking, the player will create a Split entity on the ground.
+
+The Split entity will allow the player to move themselves to a self-contained and completely isolated pocket dimension.
+
